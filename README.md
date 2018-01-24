@@ -21,9 +21,6 @@
 ![](https://raw.githubusercontent.com/chenjunup/everyone_product/master/images/5.png)
 
 
-![](https://raw.githubusercontent.com/chenjunup/everyone_product/master/images/7.png)
-
-
 ![](https://raw.githubusercontent.com/chenjunup/everyone_product/master/images/8.png)
 
 
@@ -37,12 +34,6 @@
 
 
 ![](https://raw.githubusercontent.com/chenjunup/everyone_product/master/images/12.png)
-
-
-![](https://raw.githubusercontent.com/chenjunup/everyone_product/master/images/13.png)
-
-
-![](https://raw.githubusercontent.com/chenjunup/everyone_product/master/images/14.png)
 
 
 ![](https://raw.githubusercontent.com/chenjunup/everyone_product/master/images/15.png)
