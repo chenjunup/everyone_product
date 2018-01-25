@@ -88,7 +88,8 @@ def parse_detail_page(html):
     if articles[:-4]:
         for art in articles[:-4]:
             art_list.append(art.text)
-    article = str(art_list).replace("['", '').replace("']", '').replace('\n', '').strip()
+    article = str(art_list).replace(
+        "['", '').replace("']", '').replace('\n', '').strip()
     article = re.sub("', '", '', article)
     tags = soup.select('.taglist a')
     tag_list = []
