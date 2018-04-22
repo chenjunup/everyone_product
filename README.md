@@ -2081,7 +2081,7 @@ plt.subplots_adjust(wspace=0,hspace=0)
 
 ### 3.4 时间序列数据分析
 
-- 个指标按年和季度划分的平均值
+- 各指标按年和季度划分的平均值
 
 
 ```python
